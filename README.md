@@ -1,10 +1,11 @@
 ### Hi there 👋
-'''
+---
 I am an engineering student in my second year (M1) at ENSEEIHT in Digital Sciences.<br />
 I am the developer of WagaSim, one of the most realistic and innovative paragliding simulators.
 
 
 ### My current projects
+---
 * 	**WagaSim:**<br />
 My most ambitious project so far: Developping the most realistic paraglider simulator possible.<br />
 The wings have realistic aerodynamics and soft-body physics.<br />
