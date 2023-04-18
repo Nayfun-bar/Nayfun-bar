@@ -24,4 +24,4 @@ Open source vario for paraglider and glider pilots.
 ---
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,c++,c,JavaScript,figma&theme=light)](https://github.com/Nayfun-bar)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,c,JavaScript,figma&theme=light)](https://github.com/Nayfun-bar)
