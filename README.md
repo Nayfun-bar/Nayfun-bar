@@ -24,11 +24,4 @@ Open source vario for paraglider and glider pilots.
 ---
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C#](https://img.shields.io/badge/-Cs-000?&logo=Cs)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,c++,c,JavaScript,figma&theme=light)](https://github.com/Nayfun-bar)
