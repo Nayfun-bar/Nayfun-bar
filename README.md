@@ -1,8 +1,9 @@
-### Hi there 👋
-<p align="center">
+<h1 align="center">Hi there 👋</h1>
+<h4 align="center">
 I am an engineering student in my second year (M1) at ENSEEIHT in Digital Sciences.<br />
 I am the developer of WagaSim, one of the most realistic and innovative paragliding simulators.
-</p>
+</h4>
+
 ---
 ### My current projects
 
