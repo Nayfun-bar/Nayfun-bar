@@ -24,7 +24,7 @@ Open source vario for paraglider and glider pilots.
 ---
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C#](https://img.shields.io/badge/-Cs-000?&logo=Cs)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
