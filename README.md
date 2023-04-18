@@ -9,6 +9,9 @@ I am the developer of WagaSim, one of the most realistic and innovative paraglid
               * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
+          
+- [ ] An uncompleted task
+- [x] A completed task
 <details>
 
 <summary>dd</summary>
