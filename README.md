@@ -26,6 +26,6 @@ Open source vario for paraglider and glider pilots.
 [![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,c,python,ocaml,js)](https://github.com/Nayfun-bar)
 
 ### Contact:
-- [nathbarraud31@gmail.com](mailto:nathbarraud31@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- [nathbarraud31@gmail.com](mailto:nathbarraud31@gmail.com?subject=[GitHub])
 - [nayfun_b](https://www.instagram.com/nayfun_b) on Instagram
 - [Nathan Barraud](https://www.linkedin.com/in/nathan-barraud/) on Linkedin
