@@ -23,7 +23,7 @@ Open source vario for paraglider and glider pilots.
 - JS Verlet integration
 ---
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,c,python,ocaml,js)](https://github.com/Nayfun-bar)
+![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,c,python,ocaml,js)]
 
 ### Contact:
 - [nathbarraud31@gmail.com](mailto:nathbarraud31@gmail.com?subject=[GitHub])
