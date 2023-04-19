@@ -13,7 +13,7 @@ It is also possible to design custom wing to see how they fly and react.<br /><b
 The trailer of the of the sim can be found [here](https://youtu.be/X8hl8n83Nn0) and the WagaSim's web page [here](https://nathan-barraud.itch.io/wagasim-paragliding-simulator) !<br />
 The trailer of the alpha can be found [here](https://youtu.be/h2J4jPJ2ZCU)<br />
 [![WagaSim's trailer](/Miniature.png)](https://www.youtube.com/watch?v=X8hl8n83Nn0)
-<img style="text-align:center" src="/Miniature.png" class="center" width="48">
+<img style="text-align:center" src="/Miniature.png" align="right" width="48">
 
 * **OpenVario**<br />
 Open source vario for paraglider and glider pilots.
