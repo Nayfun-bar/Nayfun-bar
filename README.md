@@ -6,12 +6,13 @@ I am the developer of WagaSim, one of the most realistic and innovative paraglid
 ---
 ### My current projects
 
-* 	**WagaSim:**<br />
+* 	**WaggaSim:**<br />
 [<img src="/Miniature.png" align="right" width="300">](https://www.youtube.com/watch?v=X8hl8n83Nn0)
 My most ambitious project so far: Developping the most realistic paraglider simulator possible.<br />
 The wings have realistic aerodynamics and soft-body physics.<br />
 It is also possible to design custom wing to see how they fly and react.<br /><br />
-The trailer of the of the sim can be found [here](https://youtu.be/X8hl8n83Nn0) and the WagaSim's web page [here](https://nathan-barraud.itch.io/wagasim-paragliding-simulator) !<br />
+Wish list is open on steam ! [here](https://store.steampowered.com/app/3058640/WaggaSim/?l=french)<br /><br />
+The trailer of the of the sim can be found [here](https://youtu.be/X8hl8n83Nn0)<br />
 The trailer of the alpha can be found [here](https://youtu.be/h2J4jPJ2ZCU)<br />
 
 
