@@ -7,7 +7,7 @@ I am the developer of WagaSim, one of the most realistic and innovative paraglid
 ### My current projects
 
 * 	**WaggaSim:**<br />
-[<img src="/Thumbnail4.png" align="right" width="300">](https://www.youtube.com/watch?v=X8hl8n83Nn0)
+[<img src="/Thumbnail4.png" align="right" width="300">](https://youtu.be/IcreMfQV42Y)
 My most ambitious project so far: Developping the most realistic paraglider simulator possible.<br />
 The wings have realistic aerodynamics and soft-body physics.<br />
 It is also possible to design custom wing to see how they fly and react.<br /><br />
