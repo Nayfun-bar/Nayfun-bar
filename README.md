@@ -24,6 +24,7 @@ The trailer of the of the sim can be found [here](https://youtu.be/IcreMfQV42Y)<
 - 3D compression and streaming
 - JS Verlet integration
 - OpenVario: Open source vario for paraglider and glider pilots.
+- ...
 ---
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,cpp,matlab,python,java,js)](https://github.com/Nayfun-bar)
