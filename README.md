@@ -13,7 +13,8 @@ The wings have realistic aerodynamics and soft-body physics.<br />
 It is also possible to design custom wing to see how they fly and react.<br /><br />
 Available on steam ! [here](https://store.steampowered.com/app/3058640/WaggaSim/?l=french)<br /><br />
 The trailer of the of the sim can be found [here](https://youtu.be/IcreMfQV42Y)<br />
-<br />
+
+
 * **Other projects**<br />
 - C# 2d fluid simulation<br />
 - C# & C++ 3D Physics simulations: Xpbd, verlet integration, simulating rigidbodies and softbodies such as fabric<br />
