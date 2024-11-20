@@ -4,7 +4,7 @@ I am an engineering student in my last year (M2) at [ENSEEIHT](https://www.ensee
 I am the developer of WaggaSim, one of the most realistic and innovative paragliding simulators.
 
 ---
-### My current projects
+### Projects
 
 * 	**WaggaSim:**<br />
 [<img src="/Thumbnail4.png" align="right" width="300">](https://youtu.be/IcreMfQV42Y)
