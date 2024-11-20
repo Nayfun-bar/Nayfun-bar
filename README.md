@@ -14,14 +14,15 @@ It is also possible to design custom wing to see how they fly and react.<br /><b
 Available on steam ! [here](https://store.steampowered.com/app/3058640/WaggaSim/?l=french)<br /><br />
 The trailer of the of the sim can be found [here](https://youtu.be/IcreMfQV42Y)<br />
 
-
-* **OpenVario**<br />
-Open source vario for paraglider and glider pilots.
-
-* **Small projects**<br />
-- C++ 2d fluid simulation<br />
-- C++ Verlet integration for simulating fabric<br />
+* **Other projects**<br />
+- C# 2d fluid simulation<br />
+- C# & C++ 3D Physics simulations: Xpbd, verlet integration, simulating rigidbodies and softbodies such as fabric<br />
+- Augmented reality projects: C++ and C# (C# used in unity with the Hololens)
+- Computer vision
+- 3D reconstruction
+- 3D compression and streaming
 - JS Verlet integration
+- OpenVario: Open source vario for paraglider and glider pilots.
 ---
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,cpp,matlab,python,java,js)](https://github.com/Nayfun-bar)
