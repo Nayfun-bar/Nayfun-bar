@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am an engineering student in my last year (M2) at [ENSEEIHT](https://www.enseeiht.fr) in Digital Sciences.<br />
-I am the developer of WaggaSim, one of the most realistic and innovative paragliding simulators.
+I am an engineering student in my last year of Master at [ENSEEIHT](https://www.enseeiht.fr) in Computer Sciences.<br />
+I am the creator and developer of WaggaSim, one of the most realistic and innovative paragliding simulators.
 
 ---
 ### Projects
@@ -16,14 +16,13 @@ The trailer of the of the sim can be found [here](https://youtu.be/IcreMfQV42Y)<
 
 
 * **Other projects**<br />
-- C# 2d fluid simulation<br />
-- C# & C++ 3D Physics simulations: Xpbd, verlet integration, simulating rigidbodies and softbodies such as fabric<br />
-- Augmented reality projects: C++ and C# (C# used in unity with the Hololens)
+- C# fluid simulation<br />
+- C# & C++ 3D Physics simulations: Xpbd, verlet integration, simulating softbodies such as fabric<br />
+- Augmented reality projects: C++ and C# (C# used in unity with the Hololens and Meta Quest 3)
 - Computer vision
 - 3D reconstruction
 - 3D compression and streaming
-- JS Verlet integration
-- OpenVario: Open source vario for paraglider and glider pilots.
+- Nario: Cheap but feature-rich variometer made for paraglider and glider pilots.
 - ...
 ---
 ### Languages
