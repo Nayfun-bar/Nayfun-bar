@@ -26,7 +26,7 @@ The trailer of the of the sim can be found [here](https://youtu.be/IcreMfQV42Y)<
 - ...
 ---
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,python,cpp,matlab,java,js)](https://github.com/Nayfun-bar)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,matlab,java,js)](https://github.com/Nayfun-bar)
 
 ### Contact:
 - [nathbarraud31@gmail.com](mailto:nathbarraud31@gmail.com?subject=[GitHub])
